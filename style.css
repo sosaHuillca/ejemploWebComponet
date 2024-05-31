@@ -1,0 +1,17 @@
+.boton{
+   --theme: cadetblue;
+   text-decoration: none;
+   border-radius: 7px;
+   background: var(--theme);
+   color: white;
+   font-weight: bold;
+   padding: 5px;
+}
+
+header{
+   margin-bottom:1rem;
+}
+#cleanStorage{
+   --theme: red;
+   border:none;
+}
